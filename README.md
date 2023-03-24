@@ -1,20 +1,20 @@
 ﻿# Fighting-Game
-•Developed a two-player combat fighting game.
-•Created two unique characters for players to choose from, each with their own attack moves.
-•Implemented a real time battle system where players could attack and the player to lose all health loses the game.
+•Developed a two-player combat fighting game.<br />
+•Created two unique characters for players to choose from, each with their own attack moves.<br />
+•Implemented a real time battle system where players could attack and the player to lose all health loses the game.<br />
 
-CONTROLS TO PLAY:
+CONTROLS TO PLAY:<br />
 
-For player 1 (Left side):-
--> Press A to move left.
--> Press D to move right.
--> Press W to Jump.
--> Press Space Bar to attack.
+For player 1 (Left side):-<br />
+-> Press A to move left.<br />
+-> Press D to move right.<br />
+-> Press W to Jump.<br />
+-> Press Space Bar to attack.<br />
 
-For player 2 (right side):-
--> Press Left Arrow to move left.
--> Press Right Arrow to move right.
--> Press Up arrow to jump.
--> Press Down Arrow to attack.
+For player 2 (right side):-<br />
+-> Press Left Arrow to move left.<br />
+-> Press Right Arrow to move right.<br />
+-> Press Up arrow to jump.<br />
+-> Press Down Arrow to attack.<br />
 
 https://fighting-game-steel.vercel.app/
