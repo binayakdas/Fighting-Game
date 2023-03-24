@@ -1,10 +1,10 @@
 ﻿# Fighting-Game
-#DEMO: 
-•	Developed a two-player combat fighting game.
-•	Created two unique characters for players to choose from, each with their own attack moves.
-•	Implemented a real time battle system where players could attack and the player to lose all health loses the game.
+•Developed a two-player combat fighting game.
+•Created two unique characters for players to choose from, each with their own attack moves.
+•Implemented a real time battle system where players could attack and the player to lose all health loses the game.
 
 CONTROLS TO PLAY:
+
 For player 1 (Left side):-
 -> Press A to move left.
 -> Press D to move right.
