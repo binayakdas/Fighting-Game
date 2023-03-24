@@ -1,5 +1,5 @@
 ﻿# Fighting-Game
-DEMO: 
+#DEMO: 
 •	Developed a two-player combat fighting game.
 •	Created two unique characters for players to choose from, each with their own attack moves.
 •	Implemented a real time battle system where players could attack and the player to lose all health loses the game.
